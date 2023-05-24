@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922779427671",
+    "project_id": "quicktalk-9af78",
+    "storage_bucket": "quicktalk-9af78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922779427671:android:665d8e9cc1f2d93e565412",
+        "android_client_info": {
+          "package_name": "com.akash.quicktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922779427671-vm41dc41q41sng2cbchjvpe5nfsf1tm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPLDLXk-sfjAwpfd5tf-FhyRUPfRO5g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922779427671-vm41dc41q41sng2cbchjvpe5nfsf1tm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
